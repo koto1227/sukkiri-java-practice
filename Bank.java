@@ -1,3 +1,3 @@
 public class Bank {
-	String name;
+	String name; //銀行の名前
 }
